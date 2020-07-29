@@ -1,0 +1,4 @@
+./packages/remote/*
+./packages/local/Apprise/.sencha/*
+./packages/local/Apprise/resoures/*
+./ext/*
